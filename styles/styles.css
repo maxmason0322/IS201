@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.diybg {
+    background-image: url(../images/Rick-Astley.png);
+    background-position: right 0%;
+}
+
+.youtube {
+    float: right;
+}
+
+.meme {
+    position: relative;
+    right: -55px;
+}
+
+.info {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+}
+
+a {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #97aab6;
+}
+
+a:hover {
+    color:#8c9d85;
+}
